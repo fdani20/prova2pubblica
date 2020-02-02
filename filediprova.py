@@ -10,7 +10,7 @@ Created on Sun Feb  2 14:42:52 2020
 
 a = 10
 
-b = 50
+b = 150
 
 c = a + b
 
